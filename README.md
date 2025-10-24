@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Marlon Mendes
 
-<!--
-**MarlonPires/MarlonPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com foco em **Back-end e automação**.  
+Atualmente estudo **Python e Banco de dados**, com o objetivo de migrar para a área de **Quality Assurance (Qa)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tecnologias e ferramentas
+- **Linguagens:** Python, C++, Java, JavaScript, SQL  
+- **Ferramentas:** Excel, Git, VS Code, IntelliJ  
+- **Interesses:** Backend, QA
+
+---
+
+### 🚀 Projetos em destaque
+- 
+- 
+- 
+
+---
+
+📫 **Contato:** [LinkedIn](https://linkedin.com/in/seu-linkedin)
