@@ -20,4 +20,4 @@ Crio soluções tecnológicas que trazem **agilidade** e **inteligência** para 
 
 ---
 
-📫 **Contato:** [LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/marlonmendes01))
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/marlonmendes01).
