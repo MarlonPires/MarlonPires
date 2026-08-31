@@ -1,14 +1,15 @@
 # 👋 Olá! Eu sou o Marlon Mendes
 
-Sou desenvolvedor com foco em **Back-end e automação**.  
-Atualmente estudo **Python e Banco de dados**, com o objetivo de migrar para a área de **Quality Assurance (Qa)**.
+Sou um **desenvolvedor** focado em dados, apaixonado por resolver problemas complexos. 
+Crio soluções tecnológicas que trazem **agilidade** e **inteligência** para o dia a dia das empresas.
 
 ---
 
 ### 🧠 Tecnologias e ferramentas
-- **Linguagens:** Python, C++, Java, JavaScript, SQL  
-- **Ferramentas:** Excel, Git, VS Code, IntelliJ  
-- **Interesses:** Backend, QA
+- **Linguagens:** Python, Java, C, JavaScript / TypeScript
+- **Frameworks e Bibliotecas:** Django, React
+- **Bancos de Dados:** PostgreSQL, MySQL, Supabase
+- **Ferramentas:** Git, VS Code, DBeaver, IntelliJ  
 
 ---
 
@@ -19,4 +20,4 @@ Atualmente estudo **Python e Banco de dados**, com o objetivo de migrar para a �
 
 ---
 
-📫 **Contato:** [LinkedIn](https://linkedin.com/in/seu-linkedin)
+📫 **Contato:** [LinkedIn]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/marlonmendes01))
