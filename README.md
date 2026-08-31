@@ -13,7 +13,7 @@ Atualmente estudo **Python e Banco de dados**, com o objetivo de migrar para a �
 ---
 
 ### 🚀 Projetos em destaque
-- 
+- [Sistema de Organização Financeira Pessoal](https://github.com/MarlonPires/Sistema-de-Organizao-Financeira-Pessoal)
 - 
 - 
 
