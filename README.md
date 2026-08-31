@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Marlon Mendes
+# 👋 Olá! Eu sou o Marlon
 
 Sou um **desenvolvedor** focado em dados, apaixonado por resolver problemas complexos. 
 Crio soluções tecnológicas que trazem **agilidade** e **inteligência** para o dia a dia das empresas.
